@@ -6,13 +6,13 @@ b. Only in other built-in objects
 
 c. Only in functions
 
-d.*answer Globally*
+**answer d. Globally**
 
 ----
 
 2) What is the Epoch?
 
-a. *answer Midnight January 1st, 1970*
+**answera. Midnight January 1st, 1970**
 
 b. An arbitrary, but very large span of time
 
@@ -26,11 +26,11 @@ d. The subdivision of a Date object into day, month, year, etc.
 
 a. Basic arithmetic (addition, subtraction, etc)
 
-*answer b. Rounding numbers*
+**answer b. Rounding numbers**
 
 c. Grouping functions to control order of operations
 
-d. *answer Random number generation*
+**answerd. Random number generation**
 
 ---
 
@@ -42,4 +42,4 @@ b. Math.random(20) + 10
 
 c. (Math.round(Math.random()) * 10) + 10
 
-d. *answer Math.round(Math.random() * 10) + 10*
+**answer d. Math.round(Math.random() * 10) + 10**
