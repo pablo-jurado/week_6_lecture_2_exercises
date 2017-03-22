@@ -25,13 +25,20 @@
 
 // Write a program that does the following:
 // Generate a random decimal number between 0 and 100 (EG: 93.60745257237626) and store it in a variable.
+var randomDecimal = Math.random() * 100
 
 // Round the number to the nearest integer (EG: 94)
+var num1 = Math.round(randomDecimal)
 
 // Round the number up to the next largest integer (EG: 94)
+var num2 = Math.ceil(randomDecimal)
 
 // Round the number down to the next smallest integer (EG: 93)
-
+var num3 = Math.floor(randomDecimal)
 // Print all four numbers out with labels.
+console.log('Round the number to the nearest integer', randomDecimal, num1)
+console.log('Round the number up to the next largest integer', randomDecimal, num2)
+console.log('Round the number down to the next smallest integer', randomDecimal, num3)
 
 // Write JavaScript code that generates a random integer in the range -10 to 10.
+console.log(Math.round(Math.random() * 10) - Math.round(Math.random() * 10))
