@@ -1,8 +1,8 @@
 1) Where are built-in JavaScript objects such as the Math and Date objects available?
-a. Only in designated objects
-b. Only in other built-in objects
-c. Only in functions
-*answer d. Globally*
+a.Only in designated objects
+b.Only in other built-in objects
+c.Only in functions
+d.*answer Globally*
 
 ----
 
